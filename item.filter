@@ -43,8 +43,8 @@ ItemDisplay[CLVL<45 isc]: %BLACK%¯%DGREEN%?%BLACK%¯
 ItemDisplay[CLVL<33 tsc]: %BLACK%¯%GRAY%¶%BLACK%¯
 ItemDisplay[CLVL<80 key]: %BLACK%¯%TAN%Î%BLACK%¯
 ItemDisplay[box]: %BLACK%«§%TAN%Crafting Cube%BLACK%§»
-ItemDisplay[hp5]: 
-ItemDisplay[mp5]: 
+ItemDisplay[hp5]: %RED%!%WHITE%Hp
+ItemDisplay[mp5]: %BLUE%!%WHITE%Mp
 ItemDisplay[rvs]: %BLACK%¯ %PURPLE%ð%BLACK% ¯
 ItemDisplay[rvl]: %BLACK%¯ %PURPLE%®%BLACK% ¯
 ItemDisplay[CLVL>79 hp4]:
@@ -1779,19 +1779,4 @@ ItemDisplay[UNI !ID ama ETH]: %RED%¤¤¤ %PURPLE%Titan's Revenge %RED%¤¤¤ %B
 ItemDisplay[UNI !ID !ETH ILVL<76]:
 ItemDisplay[UNI !ID ETH ILVL<76]:
 ItemDisplay[UNI !ID ILVL>75]:
-//potki
-ItemDisplay[rvl]: %PURPLE%R %WHITE%70%
-ItemDisplay[rvs]: %PURPLE%r %WHITE%35%
-ItemDisplay[hp5]: %RED%!%WHITE%Hp
-ItemDisplay[mp5]: %BLUE%!%WHITE%Mp
-ItemDisplay[hp1 DIFFICULTY=0]: %RED%!%WHITE%minor hp
-ItemDisplay[hp2 DIFFICULTY=0]: %RED%!%WHITE%light hp
-ItemDisplay[hp3 DIFFICULTY=0]: %RED%!%WHITE%healing
-ItemDisplay[hp4 DIFFICULTY<2]: %RED%!%WHITE%great hp
-ItemDisplay[mp1 DIFFICULTY=0]: %BLUE%!%WHITE%minor mp
-ItemDisplay[mp2 DIFFICULTY=0]: %BLUE%!%WHITE%light mp
-ItemDisplay[mp3 DIFFICULTY=0]: %BLUE%!%WHITE%mana
-ItemDisplay[mp4 DIFFICULTY<2]: %BLUE%!%WHITE%great mp
-ItemDisplay[(hp1 OR hp2 OR hp3 OR mp1 OR mp2 OR mp3) DIFFICULTY>0]:
-ItemDisplay[(hp4 OR mp4) DIFFICULTY>1]:
 // End of Loot Filter
