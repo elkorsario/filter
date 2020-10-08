@@ -66,7 +66,7 @@ ItemDisplay[CLVL<16 mp1]: %BLACK%¯ %BLUE%ð%BLACK% ¯
 ItemDisplay[leg]: %TAN%Wirt's Leg
 ItemDisplay[ear]: %RED%%NAME%
 ItemDisplay[CLVL<80 yps]: %BLACK%¯%GREEN%ð%BLACK%¯
-//ItemDisplay[CLVL>81 yps]: %BLACK%¯%GREEN%ð%BLACK%¯
+ItemDisplay[CLVL>81 yps]: %BLACK%¯%GREEN%ð%BLACK%¯
 ItemDisplay[yps]:
 ItemDisplay[CLVL<20 wms]: %BLACK%¯%YELLOW%ð%BLACK%¯
 ItemDisplay[wms]:
@@ -1779,4 +1779,19 @@ ItemDisplay[UNI !ID ama ETH]: %RED%¤¤¤ %PURPLE%Titan's Revenge %RED%¤¤¤ %B
 ItemDisplay[UNI !ID !ETH ILVL<76]:
 ItemDisplay[UNI !ID ETH ILVL<76]:
 ItemDisplay[UNI !ID ILVL>75]:
+//potki
+ItemDisplay[rvl]: %PURPLE%R %WHITE%70%
+ItemDisplay[rvs]: %PURPLE%r %WHITE%35%
+ItemDisplay[hp5]: %RED%!%WHITE%Hp
+ItemDisplay[mp5]: %BLUE%!%WHITE%Mp
+ItemDisplay[hp1 DIFFICULTY=0]: %RED%!%WHITE%minor hp
+ItemDisplay[hp2 DIFFICULTY=0]: %RED%!%WHITE%light hp
+ItemDisplay[hp3 DIFFICULTY=0]: %RED%!%WHITE%healing
+ItemDisplay[hp4 DIFFICULTY<2]: %RED%!%WHITE%great hp
+ItemDisplay[mp1 DIFFICULTY=0]: %BLUE%!%WHITE%minor mp
+ItemDisplay[mp2 DIFFICULTY=0]: %BLUE%!%WHITE%light mp
+ItemDisplay[mp3 DIFFICULTY=0]: %BLUE%!%WHITE%mana
+ItemDisplay[mp4 DIFFICULTY<2]: %BLUE%!%WHITE%great mp
+ItemDisplay[(hp1 OR hp2 OR hp3 OR mp1 OR mp2 OR mp3) DIFFICULTY>0]:
+ItemDisplay[(hp4 OR mp4) DIFFICULTY>1]:
 // End of Loot Filter
