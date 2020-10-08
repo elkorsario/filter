@@ -299,9 +299,8 @@ ItemDisplay[ID UNI !SOCK=0 ETH]: %NAME% %BLUE%eth (%SOCKETS%)
 //╔═══════╗
 //║ MAGIC ║
 //╚═══════╝
-ItemDisplay[MAG !ID amu ILVL<88]:
-ItemDisplay[MAG !ID amu ILVL=88]:
-ItemDisplay[MAG !ID amu ILVL>88]:
+ItemDisplay[(ring OR amu) MAG ILVL>90]: %NAME% %WHITE%[%ILVL%]
+ItemDisplay[(ring OR amu) MAG]: %NAME% %GRAY%[%ILVL%]
 ItemDisplay[MAG !ID rin ILVL<88]:
 ItemDisplay[MAG !ID rin ILVL=88]:
 ItemDisplay[MAG !ID rin ILVL>88]:
