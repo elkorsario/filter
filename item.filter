@@ -185,39 +185,39 @@ ItemDisplay[CLVL<20 skc]: %BLACK%»%GRAY%skull
 //║ RUNES ║
 //╚═══════╝
 ItemDisplay[RW]: %NAME%
-ItemDisplay[r01]: %ORANGE%¤ ¤ %RUNENAME% ¤ ¤ 
-ItemDisplay[r02]: %ORANGE%¤ ¤ %RUNENAME% ¤ ¤ 
-ItemDisplay[r03]: %ORANGE%¤ ¤ %RUNENAME% ¤ ¤ 
-ItemDisplay[r04]: %ORANGE%¤ ¤ %RUNENAME% ¤ ¤ 
-ItemDisplay[r05]: %ORANGE%¤ ¤ %RUNENAME% ¤ ¤ 
-ItemDisplay[r06]: %ORANGE%¤ ¤ %RUNENAME% ¤ ¤ 
-ItemDisplay[r07]: %ORANGE%¤ ¤ %RUNENAME% ¤ ¤ 
-ItemDisplay[r08]: %ORANGE%¤ ¤ %RUNENAME% ¤ ¤ 
-ItemDisplay[r09]: %ORANGE%¤ ¤ %RUNENAME% ¤ ¤ 
-ItemDisplay[r10]: %ORANGE%¤ ¤ %RUNENAME% ¤ ¤ 
-ItemDisplay[r11]: %ORANGE%¤ ¤ %RUNENAME% ¤ ¤ 
-ItemDisplay[r12]: %ORANGE%¤ ¤ %RUNENAME% ¤ ¤ 
-ItemDisplay[r13]: %ORANGE%¤ ¤ %RUNENAME% ¤ ¤ 
-ItemDisplay[r14]: %ORANGE%¤ ¤ %RUNENAME% ¤ ¤ 
-ItemDisplay[r15]: %ORANGE%¤ ¤ %RUNENAME% ¤ ¤ 
-ItemDisplay[r16]: %ORANGE%¤ ¤ %RUNENAME% ¤ ¤ 
-ItemDisplay[r17]: %ORANGE%¤ ¤ %RUNENAME% ¤ ¤ 
-ItemDisplay[r18]: %ORANGE%¤ ¤ %RUNENAME% ¤ ¤ 
-ItemDisplay[r19]: %ORANGE%¤ ¤ %RUNENAME% ¤ ¤ 
-ItemDisplay[r20]: %PURPLE%  OO %RED%%RUNENAME%%PURPLE% OO 
-ItemDisplay[r21]: %PURPLE%  OOO %RED%%RUNENAME%%PURPLE% OOO 
-ItemDisplay[r22]: %PURPLE%  OOO %RED%%RUNENAME%%PURPLE% OOO 
-ItemDisplay[r23]: %PURPLE%  OOO %RED%%RUNENAME%%PURPLE% OOO 
-ItemDisplay[r24]: %PURPLE% OOOO %RED%%RUNENAME%%PURPLE% OOOO 
-ItemDisplay[r25]: %PURPLE% OOOO %RED%%RUNENAME%%PURPLE% OOOO 
-ItemDisplay[r26]: %PURPLE% OOOOO %RED%%RUNENAME%%PURPLE% OOOOO 
-ItemDisplay[r27]: %PURPLE% OOOOO %RED%%RUNENAME%%PURPLE% OOOOO 
-ItemDisplay[r28]: %PURPLE% OOOOOO %RED%%RUNENAME%%PURPLE% OOOOOO 
-ItemDisplay[r29]: %PURPLE% OOOOOO %RED%%RUNENAME%%PURPLE% OOOOOO 
-ItemDisplay[r30]: %PURPLE% OOOOOO %RED%%RUNENAME%%PURPLE% OOOOOO 
-ItemDisplay[r31]: %PURPLE% OOOOOO %RED%%RUNENAME%%PURPLE% OOOOOO 
-ItemDisplay[r32]: %PURPLE% OOOOO %RED%%RUNENAME%%PURPLE% OOOOO 
-ItemDisplay[r33]: %PURPLE% OOOOO %RED%%RUNENAME%%PURPLE% OOOOO 
+ItemDisplay[r01]: %ORANGE%¤ ¤ %RUNENAME% 1 ¤ ¤ 
+ItemDisplay[r02]: %ORANGE%¤ ¤ %RUNENAME% 2 ¤ ¤ 
+ItemDisplay[r03]: %ORANGE%¤ ¤ %RUNENAME% 3 ¤ ¤ 
+ItemDisplay[r04]: %ORANGE%¤ ¤ %RUNENAME% 4 ¤ ¤ 
+ItemDisplay[r05]: %ORANGE%¤ ¤ %RUNENAME% 5 ¤ ¤ 
+ItemDisplay[r06]: %ORANGE%¤ ¤ %RUNENAME% 6 ¤ ¤ 
+ItemDisplay[r07]: %ORANGE%¤ ¤ %RUNENAME% 7 ¤ ¤ 
+ItemDisplay[r08]: %ORANGE%¤ ¤ %RUNENAME% 8 ¤ ¤ 
+ItemDisplay[r09]: %ORANGE%¤ ¤ %RUNENAME% 9 ¤ ¤ 
+ItemDisplay[r10]: %ORANGE%¤ ¤ %RUNENAME% 10 ¤ ¤ 
+ItemDisplay[r11]: %ORANGE%¤ ¤ %RUNENAME% 11 ¤ ¤ 
+ItemDisplay[r12]: %ORANGE%¤ ¤ %RUNENAME% 12 ¤ ¤ 
+ItemDisplay[r13]: %ORANGE%¤ ¤ %RUNENAME% 13 ¤ ¤ 
+ItemDisplay[r14]: %ORANGE%¤ ¤ %RUNENAME% 14 ¤ ¤ 
+ItemDisplay[r15]: %ORANGE%¤ ¤ %RUNENAME% 15 ¤ ¤ 
+ItemDisplay[r16]: %ORANGE%¤ ¤ %RUNENAME% 16 ¤ ¤ 
+ItemDisplay[r17]: %ORANGE%¤ ¤ %RUNENAME% 17 ¤ ¤ 
+ItemDisplay[r18]: %ORANGE%¤ ¤ %RUNENAME% 18 ¤ ¤ 
+ItemDisplay[r19]: %ORANGE%¤ ¤ %RUNENAME% 19 ¤ ¤ 
+ItemDisplay[r20]: %PURPLE%  OO %RED%%RUNENAME%%PURPLE% 20 OO 
+ItemDisplay[r21]: %PURPLE%  OOO %RED%%RUNENAME%%PURPLE% 21 OOO 
+ItemDisplay[r22]: %PURPLE%  OOO %RED%%RUNENAME%%PURPLE% 22 OOO 
+ItemDisplay[r23]: %PURPLE%  OOO %RED%%RUNENAME%%PURPLE% 23 OOO 
+ItemDisplay[r24]: %PURPLE% OOOO %RED%%RUNENAME%%PURPLE% 24 OOOO 
+ItemDisplay[r25]: %PURPLE% OOOO %RED%%RUNENAME%%PURPLE% 25 OOOO 
+ItemDisplay[r26]: %PURPLE% OOOOO %RED%%RUNENAME%%PURPLE% 26 OOOOO 
+ItemDisplay[r27]: %PURPLE% OOOOO %RED%%RUNENAME%%PURPLE% 27 OOOOO 
+ItemDisplay[r28]: %PURPLE% OOOOOO %RED%%RUNENAME%%PURPLE% 28 OOOOOO 
+ItemDisplay[r29]: %PURPLE% OOOOOO %RED%%RUNENAME%%PURPLE% 29 OOOOOO 
+ItemDisplay[r30]: %PURPLE% OOOOOO %RED%%RUNENAME%%PURPLE% 30 OOOOOO 
+ItemDisplay[r31]: %PURPLE% OOOOOO %RED%%RUNENAME%%PURPLE% 31 OOOOOO 
+ItemDisplay[r32]: %PURPLE% OOOOO %RED%%RUNENAME%%PURPLE% 32 OOOOO 
+ItemDisplay[r33]: %PURPLE% OOOOO %RED%%RUNENAME%%PURPLE% 33 OOOOO 
 //╔══════════╗
 //║ CRAFTING ║
 //╚══════════╝
